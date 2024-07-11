@@ -1,3 +1,6 @@
+# InMan-Backend
+  github-link:https://github.com/Ashu123falle/InMan-backend.git
+
 # InventoryManage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
